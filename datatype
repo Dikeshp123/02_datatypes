@@ -1,0 +1,25 @@
+"use strict";// Treat all js code as  newer version of js
+
+//alert(3+3)// we are using nodejs, not browser
+
+console.log(3+3); console.log("dikesh")
+let name = "dikesh"
+let age = 18
+let isloggedin = false
+let state;
+l
+// number => 2 to power 53
+// bigint
+// string => ""
+// boolean => true/false
+// null => standalone value
+// undefined
+// symbol => unique
+
+
+
+//object
+ console.log(typeof "dikesh") ;
+ console.log(typeof null)
+ console.log(typeof age);
+ 
